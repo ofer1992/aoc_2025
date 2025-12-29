@@ -11,3 +11,12 @@ wheels/
 
 # Node stuff
 node_modules/
+
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Temp files
+temp.*
